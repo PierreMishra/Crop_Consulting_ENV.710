@@ -1,8 +1,8 @@
 #### Completed: October 2019
 
-The full results of the study can be found in the PDF report addressed to the client.
-
 # Cotton Yield Analysis, NC
+
+The full results of the study can be found in the PDF report.
 
 ## Summary
 
