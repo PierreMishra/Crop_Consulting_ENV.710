@@ -17,3 +17,12 @@ Descriptive statistics of cotton yield were calculated under different treatment
 
 #### Conclusion
 Conventional and IPM farms were found to have higher cotton yield than organic farms. It was also found that organic farms require high amount of nitrogen fertilizer to compete with the productivity of conventional and IPM cotton. If the client prioritizes environmental and social benefits of cultivating organic cotton, high productivity can be achieved with higher fertilizer application. But conventional and IPM farming might be better choices if the client prefers to save costs on fertilizers. The assumptions of normality and equal variances for ANOVA test were not met and, therefore, some differences can occur in real world. Moreover, a few outliers were also observed in the cotton yield.
+
+
+## Investigator
+
+* Pierre Mishra, Masters of Environmental Management, 2021, Nicholas School of the Environment, Duke University
+
+## Keywords
+
+sustainable agriculture, cotton yield, organic farming, integrated pest management, conventional farming, Analysis of Variance, ANOVA, shapiro wilk, kruskal wallis, fertilizer
